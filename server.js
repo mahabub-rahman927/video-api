@@ -5,7 +5,7 @@ const path = require("path");
 const urlLib = require("url");
 
 const app = express();
-const PORT = 3000;
+const PORT = 6788;
 const DB_FILE = path.join(__dirname, "videos.json");
 
 // =======================
